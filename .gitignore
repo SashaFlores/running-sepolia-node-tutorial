@@ -1,0 +1,4 @@
+# Ignore Geth data directories
+sepoliaNode/geth/chaindata/
+sepoliaNode/geth/nodes/
+sepoliaNode/geth/LOCK
