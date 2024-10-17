@@ -2,3 +2,12 @@
 sepoliaNode/geth/chaindata/
 sepoliaNode/geth/nodes/
 sepoliaNode/geth/LOCK
+
+
+# Ignore executables and checksum files
+*.exe
+*.sha256
+*.sig
+
+
+sepoliaNode/ethereum/consensus/dist/
