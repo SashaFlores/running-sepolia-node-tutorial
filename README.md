@@ -4,11 +4,8 @@ This tutorial will guide you through the process of running a sepolia node on yo
 
 ### Prerequisites:
 
-- [Node.js](https://nodejs.org/en/download/) installed on your machine.
-- [Metamask](https://metamask.io/download.html) installed on your browser.
-- [IPFS](https://docs.ipfs.io/install/command-line-quick-start/)
-- [Go-Ethereum](https://geth.ethereum.org/docs/install-and-build/installing-geth) installed on your machine.
-- Or downloaded on your machine with developer tools included [Go-Ethereum](https://geth.ethereum.org/downloads) . 
+
+- [Go-Ethereum](https://geth.ethereum.org/docs/install-and-build/installing-geth) installed on your machine Or downloaded on your machine with developer tools included [Go-Ethereum](https://geth.ethereum.org/downloads) . 
 - [Prysm](https://docs.prylabs.network/docs/getting-started)
 
 
@@ -107,6 +104,6 @@ Some of the commands you can run in the console are:
 
 ### Step 4: Initialize the node in a testnet mode
 
-Since Ethereum started to implement the proof of stake consensus mechanism, we need two clients; an execution client which Geth and an [consensus client](https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients), there are various consensus clients available with different programming languages, in this tutorial we will be using Prysm since it uses Go. 
+Since Ethereum started to implement the proof of stake consensus mechanism, we need two clients; an execution client which Geth and an [consensus client](https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients), there are various consensus clients available with different programming languages, in this tutorial we will be using Prysm since it is written in Go. 
 
 
