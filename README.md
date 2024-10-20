@@ -1,6 +1,6 @@
 # running a sepolia node tutorial
 
-This tutorial will guide you through the process of generating EOA, running a sepolia testnet node on your local machine mimicking running a full node on mainnet, to become a validator earning rewards and contributing to Ethereum's security ecosystem .
+This tutorial provides a step-by-step guide for setting up and running a Sepolia testnet node on your local machine, mimicking a full node on the Ethereum mainnet. You will learn how to generate an Externally Owned Account (EOA), run the node, and set up a validator to earn rewards while contributing to Ethereum's security and decentralization.
 
 ### Prerequisites:
 
@@ -21,7 +21,7 @@ This tutorial will guide you through the process of generating EOA, running a se
 
 ### Modules:
 
-- [Running a full node on your local machine](../running-sepolia-node-tutorial/running-node/README.md).
+- [Running a Full Node on Your Local Machine](../running-sepolia-node-tutorial/running-node/README.md).
 
-- [Setting up a validator](../running-sepolia-node-tutorial/validator/README.md).
+- [Setting up a Validator](../running-sepolia-node-tutorial/validator/README.md).
 
