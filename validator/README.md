@@ -35,7 +35,7 @@ You need to generate a JWT secret to authenticate the HTTP connection between yo
 prysm.bat beacon-chain generate-auth-secret
 ```
 
-> If you're using Bash or PowerShell, please refer to previous [recommendations and troubleshooting](https://vscode.dev/github/SashaFlores/running-sepolia-node-tutorial/blob/main/running-node/README.md#L207) steps in the Sepolia directory.
+> If you're using Bash or PowerShell, please refer to previous [recommendations and troubleshooting](https://github.com/SashaFlores/running-sepolia-node-tutorial/blob/main/running-node/README.md#checkpoint-provided-by-beaconstate) steps in the Sepolia directory.
 
 Prysm will output a `jwt.hex` file move it to `ethereum` directory.
 
