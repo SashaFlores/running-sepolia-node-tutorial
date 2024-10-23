@@ -339,3 +339,5 @@ Using your own node instead of public RPC endpoints (like those provided by Infu
 ### USEFUL Resources:
 
 - [Geth Troubleshooting checklist](https://docs.prylabs.network/docs/troubleshooting/issues-errors)
+- [list of checkpoint sync endpoints](https://eth-clients.github.io/checkpoint-sync-endpoints/)
+- 
