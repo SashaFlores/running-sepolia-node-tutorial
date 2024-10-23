@@ -23,5 +23,5 @@ This tutorial provides a step-by-step guide for setting up and running a Sepolia
 
 - [Running a Full Node on Your Local Machine](../running-sepolia-node-tutorial/running-node/README.md).
 
-- [Setting up a Validator](../running-sepolia-node-tutorial/validator/README.md).
+- [Setting up a Validator](../running-sepolia-node-tutorial/validator).
 
