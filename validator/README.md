@@ -5,7 +5,7 @@ This tutorial provides a step-by-step guide for setting up, staking and running 
 
 ### Prerequisites
 
-- Same as the prerequisites for running a beacon node on Sepolia testnet. Please refer to the [Sepolia testnet documentation](../README.md) for more details.
+- Same as the prerequisites for running a beacon node on Sepolia testnet. 
 - You need to deposit 32 ETH to stake on the Sepolia testnet and same amount for mainnet.
 
 ### Step One: Install Prysm
@@ -35,7 +35,7 @@ You need to generate a JWT secret to authenticate the HTTP connection between yo
 prysm.bat beacon-chain generate-auth-secret
 ```
 
-> If you're using Bash or PowerShell, please refer to previous [recommendations and troubleshooting]([../running-node/README.md#L207](https://vscode.dev/github/SashaFlores/running-sepolia-node-tutorial/blob/main/running-node/README.md#L207-L208)) steps in the Sepolia directory.
+> If you're using Bash or PowerShell, please refer to previous [recommendations and troubleshooting](https://vscode.dev/github/SashaFlores/running-sepolia-node-tutorial/blob/main/running-node/README.md#L207) steps in the Sepolia directory.
 
 Prysm will output a `jwt.hex` file move it to `ethereum` directory.
 
